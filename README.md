@@ -17,6 +17,16 @@ This repository contains the code, docs and presentation materials for a predict
 
 The project utilizes a diverse dataset, including original patient data and integrated information on demographic and environmental factors. The data integration process involved aligning datasets based on a common attribute, namely Zip code, to create a more comprehensive dataset for analysis.
 
+https://catalog.data.gov/dataset/patient-characteristics-survey-pcs-2019
+
+Patient Characteristics Survey (PCS): 2019
+Metadata Updated: November 29, 2021
+
+The data are organized by OMH Region‐specific (Region of Provider), program type, and by the following demographic characteristics of the clients served during the week of the survey: 
+sex (Male, Female, and Unknown), Transgender (No, Not Transgender; Yes, Transgender and Unknown), age (below 17 (Child), 18 and above(Adult) and unknown age) and 
+race (White only, Black Only, Multi‐racial, Other and Unknown race) and ethnicity (Non‐Hispanic, Hispanic, Client Did Not Answer and Unknown). 
+
+
 ## Key Steps
 
 1. **Data Pre-Processing:**
